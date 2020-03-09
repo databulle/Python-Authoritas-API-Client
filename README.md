@@ -71,3 +71,7 @@ Here is a list of available script options:
 - `-d` or `--delay` the delay in seconds between requests (default: 2)   
 
 
+
+## Contributing
+
+If you wish to contribute to this repository or to report an issue, please do this on [GitLab](https://gitlab.com/databulle/python-authoritas-api-client).  
